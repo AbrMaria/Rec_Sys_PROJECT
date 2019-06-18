@@ -1,0 +1,368 @@
+[
+  {
+    "url": "https://www.coursera.org/learn/advanced-calculus",
+    "course_id": "advanced-calculus",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 1
+  },
+  {
+    "url": "https://www.coursera.org/learn/aires-protegees",
+    "course_id": "aires-protegees",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 2
+  },
+  {
+    "url": "https://www.coursera.org/learn/biodiversity",
+    "course_id": "biodiversity",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 3
+  },
+  {
+    "url": "https://www.coursera.org/learn/bioelectricity",
+    "course_id": "bioelectricity",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 4
+  },
+  {
+    "url": "https://www.coursera.org/learn/blended-learning",
+    "course_id": "blended-learning",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 5
+  },
+  {
+    "url": "https://www.coursera.org/learn/buddhist-meditation",
+    "course_id": "buddhist-meditation",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 6
+  },
+  {
+    "url": "https://www.coursera.org/learn/calculus1",
+    "course_id": "calculus1",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 7
+  },
+  {
+    "url": "https://www.coursera.org/learn/coaching-teachers",
+    "course_id": "coaching-teachers",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 8
+  },
+  {
+    "url": "https://www.coursera.org/learn/codapps",
+    "course_id": "codapps",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 9
+  },
+  {
+    "url": "https://www.coursera.org/learn/company-valuation",
+    "course_id": "company-valuation",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 10
+  },
+  {
+    "url": "https://www.coursera.org/learn/computational-investing",
+    "course_id": "computational-investing",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 11
+  },
+  {
+    "url": "https://www.coursera.org/learn/computer-architecture-fundamentals",
+    "course_id": "computer-architecture-fundamentals",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 12
+  },
+  {
+    "url": "https://www.coursera.org/learn/decodificando-silicon-valley",
+    "course_id": "decodificando-silicon-valley",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 13
+  },
+  {
+    "url": "https://www.coursera.org/learn/developer-iot",
+    "course_id": "developer-iot",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 14
+  },
+  {
+    "url": "https://www.coursera.org/learn/developpement-durable",
+    "course_id": "developpement-durable",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 15
+  },
+  {
+    "url": "https://www.coursera.org/learn/environmental-law",
+    "course_id": "environmental-law",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 16
+  },
+  {
+    "url": "https://www.coursera.org/learn/extracellular-potentials",
+    "course_id": "extracellular-potentials",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 17
+  },
+  {
+    "url": "https://www.coursera.org/learn/fhir",
+    "course_id": "fhir",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 18
+  },
+  {
+    "url": "https://www.coursera.org/learn/game-programming",
+    "course_id": "game-programming",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 19
+  },
+  {
+    "url": "https://www.coursera.org/learn/gaojie-wei-jifen",
+    "course_id": "gaojie-wei-jifen",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 20
+  },
+  {
+    "url": "https://www.coursera.org/learn/gcp-configuration-management",
+    "course_id": "gcp-configuration-management",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 21
+  },
+  {
+    "url": "https://www.coursera.org/learn/gcp-scalable-web-apps",
+    "course_id": "gcp-scalable-web-apps",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 22
+  },
+  {
+    "url": "https://www.coursera.org/learn/gcp-security",
+    "course_id": "gcp-security",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 23
+  },
+  {
+    "url": "https://www.coursera.org/learn/genomic-precision-medicine",
+    "course_id": "genomic-precision-medicine",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 24
+  },
+  {
+    "url": "https://www.coursera.org/learn/grand-challenges",
+    "course_id": "grand-challenges",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 25
+  },
+  {
+    "url": "https://www.coursera.org/learn/infection-prevention",
+    "course_id": "infection-prevention",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 26
+  },
+  {
+    "url": "https://www.coursera.org/learn/lancer-startup",
+    "course_id": "lancer-startup",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 27
+  },
+  {
+    "url": "https://www.coursera.org/learn/living-cosmology",
+    "course_id": "living-cosmology",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 28
+  },
+  {
+    "url": "https://www.coursera.org/learn/mcs-ds-applicant",
+    "course_id": "mcs-ds-applicant",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 29
+  },
+  {
+    "url": "https://www.coursera.org/learn/modeling-discrete-optimization",
+    "course_id": "modeling-discrete-optimization",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 30
+  },
+  {
+    "url": "https://www.coursera.org/learn/music-technology",
+    "course_id": "music-technology",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 31
+  },
+  {
+    "url": "https://www.coursera.org/learn/natural-language-processing",
+    "course_id": "natural-language-processing",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 32
+  },
+  {
+    "url": "https://www.coursera.org/learn/neural-networks",
+    "course_id": "neural-networks",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 33
+  },
+  {
+    "url": "https://www.coursera.org/learn/new-ventures",
+    "course_id": "new-ventures",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 34
+  },
+  {
+    "url": "https://www.coursera.org/learn/passport-to-india",
+    "course_id": "passport-to-india",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 35
+  },
+  {
+    "url": "https://www.coursera.org/learn/population-health",
+    "course_id": "population-health",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 36
+  },
+  {
+    "url": "https://www.coursera.org/learn/pr-campaigns",
+    "course_id": "pr-campaigns",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 37
+  },
+  {
+    "url": "https://www.coursera.org/learn/pr-capstone",
+    "course_id": "pr-capstone",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 38
+  },
+  {
+    "url": "https://www.coursera.org/learn/pre-calculus",
+    "course_id": "pre-calculus",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 39
+  },
+  {
+    "url": "https://www.coursera.org/learn/protected-areas",
+    "course_id": "protected-areas",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 40
+  },
+  {
+    "url": "https://www.coursera.org/learn/prresearch",
+    "course_id": "prresearch",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 41
+  },
+  {
+    "url": "https://www.coursera.org/learn/public-relations",
+    "course_id": "public-relations",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 42
+  },
+  {
+    "url": "https://www.coursera.org/learn/python-capstone",
+    "course_id": "python-capstone",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 43
+  },
+  {
+    "url": "https://www.coursera.org/learn/risk-and-return",
+    "course_id": "risk-and-return",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 44
+  },
+  {
+    "url": "https://www.coursera.org/learn/rookie-teaching",
+    "course_id": "rookie-teaching",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 45
+  },
+  {
+    "url": "https://www.coursera.org/learn/sales-strategies",
+    "course_id": "sales-strategies",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 46
+  },
+  {
+    "url": "https://www.coursera.org/learn/smm-campaniya",
+    "course_id": "smm-campaniya",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 47
+  },
+  {
+    "url": "https://www.coursera.org/learn/smm-osnovy",
+    "course_id": "smm-osnovy",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 48
+  },
+  {
+    "url": "https://www.coursera.org/learn/smm-platformy",
+    "course_id": "smm-platformy",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 49
+  },
+  {
+    "url": "https://www.coursera.org/learn/social-media-pr",
+    "course_id": "social-media-pr",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 50
+  },
+  {
+    "url": "https://www.coursera.org/learn/statistical-reasoning-1",
+    "course_id": "statistical-reasoning-1",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 51
+  },
+  {
+    "url": "https://www.coursera.org/learn/statistical-reasoning-2",
+    "course_id": "statistical-reasoning-2",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 52
+  },
+  {
+    "url": "https://www.coursera.org/learn/teaching-elementary",
+    "course_id": "teaching-elementary",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 53
+  },
+  {
+    "url": "https://www.coursera.org/learn/teaching-secondary",
+    "course_id": "teaching-secondary",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 54
+  },
+  {
+    "url": "https://www.coursera.org/learn/time-value-money",
+    "course_id": "time-value-money",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 55
+  },
+  {
+    "url": "https://www.coursera.org/learn/trigonometry",
+    "course_id": "trigonometry",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 56
+  },
+  {
+    "url": "https://www.coursera.org/learn/undp-cso",
+    "course_id": "undp-cso",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 57
+  },
+  {
+    "url": "https://www.coursera.org/learn/ux-ui-design",
+    "course_id": "ux-ui-design",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 58
+  },
+  {
+    "url": "https://www.coursera.org/learn/valuation-methods",
+    "course_id": "valuation-methods",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 59
+  },
+  {
+    "url": "https://www.coursera.org/learn/valuation-project",
+    "course_id": "valuation-project",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 60
+  },
+  {
+    "url": "https://www.coursera.org/learn/work-psychology",
+    "course_id": "work-psychology",
+    "error": "undefined method `text' for nil:NilClass",
+    "position": 61
+  }
+]
